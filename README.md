@@ -1,15 +1,11 @@
-# Pet Care Application
+## Pet Care Application
 
-## Remote application to communicate/serve food to a pet at home
-This android application is for the users of 'Smart pet care system', built as a collage project.
+### Description
+>This android application is a part of 'Smart pet care system', built as a collage project. This repo is for an android application to remotely monitor, serve food to a pet at home. 
 
-## Build Environment 
+#### Build Environment 
+>Mobile Application: A Raspberry Pi board connected to a web-camera to monitor pets from a remote location. </br>
+>Embedded Application: A load sensor detects the pet, activates the feeding system to deliver food.
 
-This system was implemented using raspberry-pi connected to a web-camera to monitor pets from a remote location, while being able to provide food to the pets when the owner not available. The pet owners can remotely watch the pets from this mobile application when the connected web-camera. 
-
-## Tech Stack
-
-Adroid SDK, 
-Arduino Uno, 
-Raspberry Pi 3, 
-Motor 
+#### Tech Stack
+>Adroid SDK, Arduino Uno, Raspberry Pi 3, Motor 
